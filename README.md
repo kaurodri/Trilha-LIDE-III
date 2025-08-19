@@ -1,5 +1,5 @@
 # Time III | LIDE Trilha de Finanças
 
-* Henrique OK
-* Maitte
-* Poliane ok
+- Henrique OK
+- Maitte OK
+- Poliane ok
