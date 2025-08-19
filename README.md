@@ -2,4 +2,4 @@
 
 - Henrique OK
 - Maitte OK
-- Poliane ok
+- Poliane OK
